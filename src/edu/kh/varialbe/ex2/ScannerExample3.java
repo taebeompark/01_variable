@@ -26,7 +26,7 @@ public class ScannerExample3 {
 		String input3 = sc.next();
 		
 		System.out.printf("%s %s %s\n", input1, input2,input3);
-		//숫자써도 ok
+		//숫자써도 ok.
 		//입력한 숫자는 문자열로 인식
 	}
 }

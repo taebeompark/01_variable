@@ -6,7 +6,7 @@ public class PracticeRun1 {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		
-		System.out.print("문자 :");
+		System.out.print("문자입력 :");
 		char input1 = sc.next().charAt(0); //A
 		
 		
